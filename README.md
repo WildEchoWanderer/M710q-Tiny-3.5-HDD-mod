@@ -2,10 +2,12 @@
 Adding a 3.5" HDD with 12V to a Lenovo M710q Tiny 
 ![02-07-2024_09-40-04](https://github.com/Andurilll/M710q-Tiny-3.5-HDD-mod/assets/116340711/1a89e9e9-1ee2-4fc3-8e8d-76abf8809ebd)
 
-Goal of this project is to add a 3.5" Harddisk and use internal Sata & 12V.
+Goal of this project is to add a 3.5" Harddisk and use internal Sata & 12V. Also print a material-efficient and nice-looking housing.
 
 ![20240701_172143](https://github.com/Andurilll/M710q-Tiny-3.5-HDD-mod/assets/116340711/5a92d705-190f-4733-bf03-46e5e82cfaf2)
 
+With Case:
+![17488615299162695098337317146079](https://github.com/user-attachments/assets/ac499e65-e02c-4855-84e8-317622d58c82)
 
 # TL;DR
 Solder the yellow wire of a Sata-Extender to 12V on Mainboard
@@ -34,36 +36,36 @@ I'm not responsible for Board damage or a fire!
 
 # How to
 
-1 Open Case
+1. Open Case
 
-2 Verify the 12V Solderpoint with Multimeter
+2. Verify the 12V Solderpoint with Multimeter
 ![20240701_151446](https://github.com/Andurilll/M710q-Tiny-3.5-HDD-mod/assets/116340711/04cd8f7b-9c05-4014-98b6-c48ac489e5c2)
 ![20240701_151335](https://github.com/Andurilll/M710q-Tiny-3.5-HDD-mod/assets/116340711/cf9aaff1-57ff-4164-9364-804de6ecbcd7)
 
-3 Cut connector male in half, open hole on the back, put both pieces through separately
+3. Cut connector male in half, open hole on the back, put both pieces through separately
 ![20240701_155635](https://github.com/Andurilll/M710q-Tiny-3.5-HDD-mod/assets/116340711/43238d6e-7c6b-4331-93c8-3a3c3f72b4e3)
 
-4 Mount SATA-Female with zip ties
+4. Mount SATA-Female with zip ties
 
-5 Cut yellow wire & solder the short extra wire to it. Isolate connection and cutoff point on male side
+5. Cut yellow wire & solder the short extra wire to it. Isolate connection and cutoff point on male side
 
-6 Solder Wire to 12V Mainboard point
+6. Solder Wire to 12V Mainboard point
 ![20240701_160932](https://github.com/Andurilll/M710q-Tiny-3.5-HDD-mod/assets/116340711/1744ce7d-3678-424b-82e6-328d2647a4e9)
 
-7 Fix Yellow wire with zip ties to CPU Cooler
+7. Fix Yellow wire with zip ties to CPU Cooler
 
-8 Fix all wires to SSD-Bracket
+8. Fix all wires to SSD-Bracket
 ![20240701_172044](https://github.com/Andurilll/M710q-Tiny-3.5-HDD-mod/assets/116340711/55d69c6f-610f-44ff-a3d7-0f7a83e07e10)
 
-8 Close
+9. Close
 
 # Extra photo for GND/5V/12V
 Thanks to systemerror-codenotfound https://cults3d.com/es/modelo-3d/artilugios/3d-printed-nas-case-for-tiny-m710q-m910q-m720q-m920q
 ![image](https://github.com/Andurilll/M710q-Tiny-3.5-HDD-mod/assets/116340711/4ec6e9d4-585e-4514-8299-0189709304d9)
 
-9 Print and assemble 3D printed Case
+10. Print and assemble 3D printed Case
 
-https://www.thingiverse.com/thing:6691335
+https://www.printables.com/model/1191155-m710q-tiny-35hdd-mod-case
 
 
 # To Do's
